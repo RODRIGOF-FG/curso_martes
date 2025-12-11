@@ -28,5 +28,6 @@ public class AdminAsistenciaService {
                         a.getFecha()
                 )
         ).collect(Collectors.toList());
+        //ya esta
     }
 }
